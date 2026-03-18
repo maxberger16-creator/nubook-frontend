@@ -80,7 +80,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900">
-              Why FlightSaver Beats Airline Customer Service
+              Why nubook Beats Airline Customer Service
             </h2>
             <p className="mt-4 text-xl text-gray-600">
               We're faster, smarter, and cover more options than calling the airline
@@ -106,7 +106,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900">
-              How FlightSaver Works
+              How nubook Works
             </h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
@@ -211,3 +211,9 @@ export default function HomePage() {
                 </SignUpButton>
               </div>
             ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
